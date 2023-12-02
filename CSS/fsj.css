@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-image: url("/IMG/fsj-snow.jpg");
+    background-image: url("./IMG/fsj-snow.jpg");
     background-size: cover;
     color: #ffd254;
     width: 100%;
